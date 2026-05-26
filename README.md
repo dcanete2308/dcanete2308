@@ -38,13 +38,10 @@ Welcome to my profile! I'm an Odoo developer and Computer Engineering student at
 
 ## GitHub Stats
 
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=dcanete2308&theme=tokyonight&hide_border=true" alt="Dídac's streak"/>
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dcanete2308&theme=tokyonight" alt="Dídac's GitHub stats"/>
-</p>
+<table align="center"><tr>
+  <td><img src="https://streak-stats.demolab.com/?user=dcanete2308&theme=tokyonight&hide_border=true" alt="Dídac's streak"/></td>
+  <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dcanete2308&theme=tokyonight" alt="Dídac's GitHub stats"/></td>
+</tr></table>
 
 ---
 
