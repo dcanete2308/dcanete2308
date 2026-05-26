@@ -10,7 +10,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/dcanete2308" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub Personal-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/dcanete-pyming" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub Work-2b3137?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Work"/>
   </a>
 </p>
 
@@ -36,8 +39,11 @@ Welcome to my profile! I'm an Odoo developer and Computer Engineering student at
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dcanete2308&theme=tokyonight" alt="Dídac's GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=dcanete2308&theme=tokyonight&hide_border=true" alt="Dídac's streak"/>
+  <img width="60%" src="https://streak-stats.demolab.com/?user=dcanete2308&theme=tokyonight&hide_border=true" alt="Dídac's streak"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dcanete2308&theme=tokyonight" alt="Dídac's GitHub stats"/>
 </p>
 
 ---
