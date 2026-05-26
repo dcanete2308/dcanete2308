@@ -40,12 +40,6 @@ Welcome to my profile! I'm an Odoo developer and Computer Engineering student at
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dcanete2308&theme=tokyonight&hide_border=true" alt="Dídac's streak" width="48%"/>
 </p>
 
-## Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcanete2308&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="50%"/>
-</p>
-
 ---
 
 <p align="center">
