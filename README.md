@@ -34,6 +34,7 @@ Welcome to my profile! I'm an Odoo developer and Computer Engineering student at
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
 ---
 
 <p align="center">
