@@ -40,5 +40,4 @@ Welcome to my profile! I'm an Odoo developer and Computer Engineering student at
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dcanete2308&label=Profile+views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
-
-<a href="https://wildtelemtry.app">Wild Telemetry</a>
+<a href="https://wildtelemetry.app/">Wild Telemetry</a>
